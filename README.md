@@ -1,4 +1,4 @@
-# Project Title
+# convoClone : AI clone trained on Whatsapp Chats
 This project demonstrates an AI assistant with WhatsApp integration for context-aware responses using Twilio and a Llama model fine tuned on Whatsapp chats.
 
 ## Features
