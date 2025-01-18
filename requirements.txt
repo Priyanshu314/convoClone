@@ -1,0 +1,7 @@
+flask
+unsloth
+torch
+transformers
+scikit-learn
+twilio
+pyngrok
