@@ -1,5 +1,5 @@
 # Project Title
-This project demonstrates an AI assistant with WhatsApp integration for context-aware responses using Twilio and a fine-tuned Llama model.
+This project demonstrates an AI assistant with WhatsApp integration for context-aware responses using Twilio and a Llama model fine tuned on Whatsapp chats.
 
 ## Features
 - Real-time WhatsApp message processing
